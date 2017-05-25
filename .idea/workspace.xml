@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39fa3b13-f8ca-4a21-bd99-f3e7282b3e2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/sportr_sample.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sportr-sample.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/sportr_sample.py" afterPath="$PROJECT_DIR$/api/sportr_sample.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/tests/test_sportr_sample.py" afterPath="$PROJECT_DIR$/api/tests/test_sportr_sample.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,25 +20,28 @@
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetUrl.coverage" NAME="Unittests for test_sportr_sample.TestGetUrl Coverage Results" MODIFIED="1495668853467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetUrl_test_get_url.coverage" NAME="Unittests for test_sportr_sample.TestGetUrl.test_get_url Coverage Results" MODIFIED="1495666369632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_in_test_sportr_py.coverage" NAME="Unittests in test_sportr.py Coverage Results" MODIFIED="1495663815231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_in_test_sportr_sample_py.coverage" NAME="Unittests in test_sportr_sample.py Coverage Results" MODIFIED="1495669089792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
-    <SUITE FILE_PATH="coverage/sportr_sample$sportr_sample.coverage" NAME="sportr-sample Coverage Results" MODIFIED="1495667545334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_in_test_sportr_sample_py.coverage" NAME="Unittests in test_sportr_sample.py Coverage Results" MODIFIED="1495672053237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
+    <SUITE FILE_PATH="coverage/sportr_sample$sportr_sample.coverage" NAME="sportr-sample Coverage Results" MODIFIED="1495670362225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetBadUrl_test_get_invalid_url.coverage" NAME="Unittests for test_sportr_sample.TestGetBadUrl.test_get_invalid_url Coverage Results" MODIFIED="1495671926269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1495565565900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestMultiply_test_multiply.coverage" NAME="Unittests for test_sportr_sample.TestMultiply.test_multiply Coverage Results" MODIFIED="1495667627619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$ex_bleach.coverage" NAME="ex-bleach Coverage Results" MODIFIED="1495573267298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetBadUrl.coverage" NAME="Unittests for test_sportr_sample.TestGetBadUrl Coverage Results" MODIFIED="1495671955381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestStart_test_start.coverage" NAME="Unittests for test_sportr_sample.TestStart.test_start Coverage Results" MODIFIED="1495666214728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$example4.coverage" NAME="example4 Coverage Results" MODIFIED="1495570138120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetUrl_test_get_valid_url.coverage" NAME="Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url Coverage Results" MODIFIED="1495669083768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
+    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetValidButNoIndexUrl.coverage" NAME="Unittests for test_sportr_sample.TestGetValidButNoIndexUrl Coverage Results" MODIFIED="1495670298508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
+    <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetUrl_test_get_valid_url.coverage" NAME="Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url Coverage Results" MODIFIED="1495671541047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestMultiply.coverage" NAME="Unittests for test_sportr_sample.TestMultiply Coverage Results" MODIFIED="1495667283855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
     <SUITE FILE_PATH="coverage/sportr_sample$Unittests_for_test_sportr_sample_TestGetRandomUrl_test_get_random_text.coverage" NAME="Unittests for test_sportr_sample.TestGetRandomUrl.test_get_random_text Coverage Results" MODIFIED="1495668515937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sportr_sample.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sportr_sample.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/sportr_sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="302">
+              <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -49,24 +49,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_sportr_sample.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_sportr_sample.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/tests/test_sportr_sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="311">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -110,9 +100,9 @@
         <option value="$PROJECT_DIR$/api/test-sportr.py" />
         <option value="$PROJECT_DIR$/api/test_sportr.py" />
         <option value="$PROJECT_DIR$/test/test_sportr.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/api/tests/test_sportr_sample.py" />
         <option value="$PROJECT_DIR$/api/sportr_sample.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -123,8 +113,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="61" />
+    <option name="x" value="277" />
+    <option name="y" value="112" />
     <option name="width" value="1403" />
     <option name="height" value="813" />
   </component>
@@ -165,6 +155,56 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sportr-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".pythoscope" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,54 +255,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests for test_sportr_sample.TestGetUrl" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sportr-sample" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sportr_sample.TestGetUrl&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests for test_sportr_sample.TestGetRandomUrl" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sportr-sample" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sportr_sample.TestGetRandomUrl&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests for test_sportr_sample.TestGetRandomUrl.test_get_random_text" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sportr-sample" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sportr_sample.TestGetRandomUrl.test_get_random_text&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
     <configuration default="false" name="Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +268,54 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_sportr_sample.TestGetUrl.test_get_valid_url&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_sportr_sample.TestGetValidButNoIndexUrl" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sportr-sample" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sportr_sample.TestGetValidButNoIndexUrl&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_sportr_sample.TestGetBadUrl" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sportr-sample" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sportr_sample.TestGetBadUrl&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_sportr_sample.TestGetBadUrl.test_get_invalid_url" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sportr-sample" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sportr_sample.TestGetBadUrl.test_get_invalid_url&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -460,18 +500,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.sportr-sample" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_sportr_sample.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetUrl" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetRandomUrl" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetRandomUrl.test_get_random_text" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetValidButNoIndexUrl" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetBadUrl" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetBadUrl.test_get_invalid_url" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_sportr_sample.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetUrl" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetRandomUrl" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetRandomUrl.test_get_random_text" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetBadUrl" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetBadUrl.test_get_invalid_url" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_sportr_sample.TestGetValidButNoIndexUrl" />
       </list>
     </recent_temporary>
   </component>
@@ -489,49 +529,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_sportr_sample_TestGetUrl - 2017.05.25 at 00h 31m 51s.xml">
-      <configuration name="Unittests for test_sportr_sample.TestGetUrl" configurationId="tests" />
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl - 2017.05.25 at 01h 19m 22s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_sportr_sample_TestGetUrl - 2017.05.25 at 00h 34m 14s.xml">
-      <configuration name="Unittests for test_sportr_sample.TestGetUrl" configurationId="tests" />
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl - 2017.05.25 at 01h 22m 53s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_sportr_sample_TestGetUrl_test_get_valid_url - 2017.05.25 at 00h 37m 55s.xml">
-      <configuration name="Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" configurationId="tests" />
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl - 2017.05.25 at 01h 24m 28s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_sportr_sample_TestGetUrl_test_get_valid_url - 2017.05.25 at 00h 38m 04s.xml">
-      <configuration name="Unittests for test_sportr_sample.TestGetUrl.test_get_valid_url" configurationId="tests" />
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl - 2017.05.25 at 01h 25m 03s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 00h 32m 02s.xml">
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl - 2017.05.25 at 01h 25m 56s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl_test_get_invalid_url - 2017.05.25 at 01h 21m 50s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl.test_get_invalid_url" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_sportr_sample_TestGetBadUrl_test_get_invalid_url - 2017.05.25 at 01h 25m 27s.xml">
+      <configuration name="Unittests for test_sportr_sample.TestGetBadUrl.test_get_invalid_url" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 01h 26m 23s.xml">
       <configuration name="Unittests in test_sportr_sample.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 00h 32m 21s.xml">
+    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 01h 27m 25s.xml">
       <configuration name="Unittests in test_sportr_sample.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 00h 32m 48s.xml">
-      <configuration name="Unittests in test_sportr_sample.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 00h 34m 26s.xml">
-      <configuration name="Unittests in test_sportr_sample.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 00h 34m 59s.xml">
-      <configuration name="Unittests in test_sportr_sample.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 00h 38m 11s.xml">
+    <history-entry file="Unittests_in_test_sportr_sample_py - 2017.05.25 at 01h 27m 35s.xml">
       <configuration name="Unittests in test_sportr_sample.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="61" width="1403" height="813" extended-state="0" />
+    <frame x="277" y="112" width="1403" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842416" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38002774" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2850845" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40638003" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2850845" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259362" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29831007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19470978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -548,6 +588,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -629,16 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/sportr_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -647,12 +703,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/sportr/lib/python2.7/site-packages/requests/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/tests/test_sportr_sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="311">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/sportr_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
